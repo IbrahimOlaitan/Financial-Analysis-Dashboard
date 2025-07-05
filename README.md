@@ -29,13 +29,13 @@ ________________________________________
 o	Gross Sales, Net Sales, Profit, Discounts, Units Sold
 o	Country, Product, Segment, Discount Band, Year/Month
 ________________________________________
-🛠️ Tools & Technologies
+### Tools & Technologies
 •	Power BI Desktop
 •	Data modelling with Power BI Data Model
 •	DAX for custom measures and KPIs
 •	Interactive slicers and tooltips for filtering
 ________________________________________
-📊 Findings
+### Findings
 1.	Significant Year-over-Year Growth
 o	Sales increased by 201.23%, reaching 39.4M from 13M last year.
 o	Orders also rose significantly by 181.23%.
@@ -59,7 +59,7 @@ o	Excessive discounting could be impacting margins negatively, especially in low
 o	Sales show fluctuations across months and years, peaking in mid-2014 and dipping in early 2015.
 o	Indicates potential seasonal buying behaviour or campaign influence.
 ________________________________________
-✅ Recommendations
+### Recommendations
 1.	Optimize Discount Strategy
 o	Evaluate the impact of high discounts on low-margin segments.
 o	Consider adjusting discount bands or implementing tiered discounting based on profitability.
@@ -82,7 +82,7 @@ ________________________________________
 
 
 
-👤 Author
+## 👤 Author
 ibrahim Rahman
 Ibrahim.rahman9127@gmail.com
 🔗https://github.com/IbrahimOlaitan/Financial-Analysis-Dashboard
