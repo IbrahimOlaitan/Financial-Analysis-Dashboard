@@ -1,8 +1,8 @@
-# 📊 Timeless Muse Store - Financial Analysis Dashboard
+#  Timeless Muse Store - Financial Analysis Dashboard
 This project is a comprehensive Power BI financial dashboard designed to analyse and visualize key performance indicators for  Timeless Muse Store. It provides insights into sales, profit margins, order volumes, discount structures, and product performance across countries and customer segments.
 
-🚀 Overview
-The dashboard helps stakeholders quickly understand:
+##  Overview
+### The dashboard helps stakeholders quickly understand:
 •	Year-over-year growth in sales, profits, and discounts
 •	Top-performing countries and products
 •	Profit margin trends by customer segments
@@ -10,22 +10,22 @@ The dashboard helps stakeholders quickly understand:
 •	Discount distribution and its impact on profit
 ________________________________________
 
-📌 Key Features
-•	KPIs Overview
-Visual comparison of current vs prior year metrics for Sales, Orders, Profit, Profit Margin, Discount offered
-•	Sales and Profit Analysis
+##  Key Features
+### 	KPIs Overview
+   Visual comparison of current vs prior year metrics for Sales, Orders, Profit, Profit Margin, Discount offered
+###  Sales and Profit Analysis
 o	Profit margin by country and segment
 o	Monthly/yearly sales trend
 o	Top products by sales amount
-•	Discount Structure
+### 	Discount Structure
 o	Visual distribution of discounts by band (Low, Medium, High)
 o	Segment-wise profitability comparison
-•	Geographical Insights
+### 	Geographical Insights
 o	Orders distribution by country
 ________________________________________
-🧾 Data Source
-•	The dataset (Company_financials) is  a sample dataset on powerbi.
-•	Data fields include:
+# Data Source
+•	The dataset Company_financials is  a sample dataset on powerbi.
+# Data fields include:
 o	Gross Sales, Net Sales, Profit, Discounts, Units Sold
 o	Country, Product, Segment, Discount Band, Year/Month
 ________________________________________
